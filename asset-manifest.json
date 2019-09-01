@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rustyfridges/static/css/main.2cce8147.chunk.css",
+    "main.js": "/rustyfridges/static/js/main.8bec526c.chunk.js",
+    "main.js.map": "/rustyfridges/static/js/main.8bec526c.chunk.js.map",
+    "runtime~main.js": "/rustyfridges/static/js/runtime~main.99716e52.js",
+    "runtime~main.js.map": "/rustyfridges/static/js/runtime~main.99716e52.js.map",
+    "static/js/2.016363a6.chunk.js": "/rustyfridges/static/js/2.016363a6.chunk.js",
+    "static/js/2.016363a6.chunk.js.map": "/rustyfridges/static/js/2.016363a6.chunk.js.map",
+    "index.html": "/rustyfridges/index.html",
+    "precache-manifest.a83da16524f3bac12a8be375db469f35.js": "/rustyfridges/precache-manifest.a83da16524f3bac12a8be375db469f35.js",
+    "service-worker.js": "/rustyfridges/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/rustyfridges/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/rustyfridges/static/media/logo.5d5d9eef.svg"
+  }
+}
